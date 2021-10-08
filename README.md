@@ -20,7 +20,7 @@ The systemd source code files used in this repository were imported from the [up
 
 The last import was performed with the following version:
 
-**2021-10-08 - v249 - commit [#20966](https://github.com/systemd/systemd/pull/20966) **
+**2021-10-08 - v249 - commit [#20966](https://github.com/systemd/systemd/pull/20966)**
 
 
 
